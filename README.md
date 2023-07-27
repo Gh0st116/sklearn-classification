@@ -1,6 +1,8 @@
 # sklearn-classification
 Various examples of machine learning classification code made with SKLearn in Google Colab. Made during an Alura course.
 <br><br>
+In total, 4 different projects were made, them being:
+<br><br>
 
 ## Dog and pig classification
 LinearSVC model for classification between dogs and pigs based on the array of their features, them being: having long fur, short legs and barking.
